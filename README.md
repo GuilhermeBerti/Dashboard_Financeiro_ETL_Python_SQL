@@ -74,7 +74,7 @@ streamlit run app.py
 
 3. Acesse o dashboard no navegador no link gerado pelo Streamlit.
 
-
+https://guilhermebertidashboard.streamlit.app/
 
 5. Utilize o botão de download CSV para exportar os dados.
 
